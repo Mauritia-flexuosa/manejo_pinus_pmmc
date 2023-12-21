@@ -1,0 +1,3543 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df" id="df">
+	<SimpleField name="Pontos" type="float"></SimpleField>
+	<SimpleField name="Pequenos" type="float"></SimpleField>
+	<SimpleField name="Médios" type="float"></SimpleField>
+	<SimpleField name="Grandes" type="float"></SimpleField>
+	<SimpleField name="Cones" type="float"></SimpleField>
+	<SimpleField name="Data" type="string"></SimpleField>
+	<SimpleField name="anotador" type="string"></SimpleField>
+</Schema>
+<Folder><name>df</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">1</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5106805555556,-27.6196694444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">2</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5104416666667,-27.6195805555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">3</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5103277777778,-27.6194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">4</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5104944444445,-27.6194305555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">5</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5111972222222,-27.6200138888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">6</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5109638888889,-27.6212944444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">7</SimpleData>
+		<SimpleData name="Pequenos">12</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5107472222222,-27.6217555555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">8</SimpleData>
+		<SimpleData name="Pequenos">23</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5104111111111,-27.6218888888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">9</SimpleData>
+		<SimpleData name="Pequenos">6</SimpleData>
+		<SimpleData name="Médios">23</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5104416666667,-27.6215944444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">10</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5101972222222,-27.621525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">11</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5098138888889,-27.6212583333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">12</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5098694444445,-27.6209083333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">13</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">33</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5095472222222,-27.6210833333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">14</SimpleData>
+		<SimpleData name="Pequenos">21</SimpleData>
+		<SimpleData name="Médios">35</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5093611111111,-27.6213055555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">15</SimpleData>
+		<SimpleData name="Pequenos">35</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5096305555556,-27.6211611111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">16</SimpleData>
+		<SimpleData name="Pequenos">44</SimpleData>
+		<SimpleData name="Médios">6</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5095111111111,-27.6215333333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">17</SimpleData>
+		<SimpleData name="Pequenos">17</SimpleData>
+		<SimpleData name="Médios">24</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5101666666667,-27.6221861111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">18</SimpleData>
+		<SimpleData name="Pequenos">8</SimpleData>
+		<SimpleData name="Médios">10</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5103166666667,-27.6220166666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">19</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5105083333333,-27.6223972222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">20</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5107305555556,-27.6229583333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">21</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5102166666667,-27.6234277777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">22</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">18</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.508575,-27.6162222222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">23</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5127666666667,-27.6218666666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">24</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5131388888889,-27.6219083333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">25</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">10</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5138666666667,-27.6217527777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">26</SimpleData>
+		<SimpleData name="Pequenos">9</SimpleData>
+		<SimpleData name="Médios">7</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5141472222222,-27.6217444444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">27</SimpleData>
+		<SimpleData name="Pequenos">11</SimpleData>
+		<SimpleData name="Médios">9</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5138638888889,-27.6240083333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">28</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">4</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5137166666667,-27.6237805555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">29</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5134777777778,-27.6238027777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">30</SimpleData>
+		<SimpleData name="Pequenos">15</SimpleData>
+		<SimpleData name="Médios">15</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5133694444444,-27.6237555555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">31</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5135805555556,-27.6233638888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">32</SimpleData>
+		<SimpleData name="Pequenos">10</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5134444444444,-27.6232944444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">33</SimpleData>
+		<SimpleData name="Pequenos">15</SimpleData>
+		<SimpleData name="Médios">10</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5132194444444,-27.623225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">34</SimpleData>
+		<SimpleData name="Pequenos">8</SimpleData>
+		<SimpleData name="Médios">6</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5127944444444,-27.6230111111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">35</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5134805555556,-27.6224361111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">36</SimpleData>
+		<SimpleData name="Pequenos">7</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5137,-27.6223555555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">37</SimpleData>
+		<SimpleData name="Pequenos">10</SimpleData>
+		<SimpleData name="Médios">11</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5148,-27.6207722222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">38</SimpleData>
+		<SimpleData name="Pequenos">5</SimpleData>
+		<SimpleData name="Médios">16</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5141888888889,-27.620425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">39</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5147333333333,-27.6198166666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">40</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5177833333333,-27.6180305555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">41</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">13</SimpleData>
+		<SimpleData name="Cones">13</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5181277777778,-27.6175833333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">42</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.508575,-27.6162222222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">43</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">20</SimpleData>
+		<SimpleData name="Cones">16</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5179472222222,-27.6174916666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">44</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">29</SimpleData>
+		<SimpleData name="Cones">29</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5179166666667,-27.6177527777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">45</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5177388888889,-27.6174861111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">46</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">21</SimpleData>
+		<SimpleData name="Cones">18</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5183805555556,-27.618175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">47</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">20</SimpleData>
+		<SimpleData name="Cones">19</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.51845,-27.6180416666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">48</SimpleData>
+		<SimpleData name="Pequenos">37</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">6</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5183944444444,-27.6181194444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">49</SimpleData>
+		<SimpleData name="Pequenos">15</SimpleData>
+		<SimpleData name="Médios">19</SimpleData>
+		<SimpleData name="Grandes">21</SimpleData>
+		<SimpleData name="Cones">21</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5186388888889,-27.6179472222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">50</SimpleData>
+		<SimpleData name="Pequenos">19</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">18</SimpleData>
+		<SimpleData name="Cones">18</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5187888888889,-27.6181638888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">51</SimpleData>
+		<SimpleData name="Pequenos">25</SimpleData>
+		<SimpleData name="Médios">15</SimpleData>
+		<SimpleData name="Grandes">22</SimpleData>
+		<SimpleData name="Cones">22</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5189194444444,-27.6181833333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">52</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">12</SimpleData>
+		<SimpleData name="Cones">11</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5182444444444,-27.6186166666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">53</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">11</SimpleData>
+		<SimpleData name="Cones">11</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5188305555556,-27.6189333333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">54</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">12</SimpleData>
+		<SimpleData name="Cones">3</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5177277777778,-27.6170361111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">55</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">38</SimpleData>
+		<SimpleData name="Cones">28</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5209111111111,-27.6175138888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">56</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">32</SimpleData>
+		<SimpleData name="Cones">22</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5210055555556,-27.6177361111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">57</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">25</SimpleData>
+		<SimpleData name="Cones">25</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5211777777778,-27.6177916666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">58</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">35</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5177277777778,-27.6170361111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">59</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">28</SimpleData>
+		<SimpleData name="Cones">25</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5214416666667,-27.61805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">60</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">15</SimpleData>
+		<SimpleData name="Cones">12</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5216,-27.6184083333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">61</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">13</SimpleData>
+		<SimpleData name="Cones">8</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5215638888889,-27.6186361111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">62</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">18</SimpleData>
+		<SimpleData name="Cones">15</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5215083333333,-27.6186777777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">63</SimpleData>
+		<SimpleData name="Pequenos">5</SimpleData>
+		<SimpleData name="Médios">7</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">10</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5216972222222,-27.6188111111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">64</SimpleData>
+		<SimpleData name="Pequenos">7</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">35</SimpleData>
+		<SimpleData name="Cones">22</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5213611111111,-27.6184166666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">65</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">6</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5214777777778,-27.618775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">66</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">22</SimpleData>
+		<SimpleData name="Grandes">30</SimpleData>
+		<SimpleData name="Cones">12</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5212472222222,-27.6181861111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">67</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">8</SimpleData>
+		<SimpleData name="Cones">8</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5213416666667,-27.6173222222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">68</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5212111111111,-27.6170972222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">69</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">12</SimpleData>
+		<SimpleData name="Cones">10</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5221527777778,-27.6178027777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">70</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">26</SimpleData>
+		<SimpleData name="Cones">20</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5208944444444,-27.6185861111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">71</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">46</SimpleData>
+		<SimpleData name="Cones">36</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5208777777778,-27.6188972222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">72</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">22</SimpleData>
+		<SimpleData name="Cones">18</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5210166666667,-27.6190944444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">73</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">19</SimpleData>
+		<SimpleData name="Cones">15</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5210888888889,-27.6188361111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">74</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">25</SimpleData>
+		<SimpleData name="Cones">20</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5207027777778,-27.6187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">75</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5205388888889,-27.6180416666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">76</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5203305555556,-27.6180416666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">77</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5114833333333,-27.6183583333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">78</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5086638888889,-27.6236583333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">79</SimpleData>
+		<SimpleData name="Pequenos">10</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">33</SimpleData>
+		<SimpleData name="Cones">25</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5078472222222,-27.6236777777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">80</SimpleData>
+		<SimpleData name="Pequenos">12</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">31</SimpleData>
+		<SimpleData name="Cones">20</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5074888888889,-27.6227527777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">81</SimpleData>
+		<SimpleData name="Pequenos">20</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">16</SimpleData>
+		<SimpleData name="Cones">10</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5081027777778,-27.6220805555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">83</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5209861111111,-27.6168305555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">84</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">4</SimpleData>
+		<SimpleData name="Cones">3</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5222416666667,-27.6163361111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">85</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.522425,-27.6163138888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">86</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5224222222222,-27.6167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">87</SimpleData>
+		<SimpleData name="Pequenos">6</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">25</SimpleData>
+		<SimpleData name="Cones">20</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5221472222222,-27.6162944444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">88</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5222722222222,-27.6160361111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">89</SimpleData>
+		<SimpleData name="Pequenos">6</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5208472222222,-27.61695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">90</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5151083333333,-27.6245138888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">91</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-12-06</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5154138888889,-27.6245111111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">92</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-12-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5079083333333,-27.6218111111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">93</SimpleData>
+		<SimpleData name="Pequenos">10</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">7</SimpleData>
+		<SimpleData name="Data">2023-12-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5068222222222,-27.6235472222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">94</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">7</SimpleData>
+		<SimpleData name="Data">2023-12-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5069388888889,-27.6231472222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">95</SimpleData>
+		<SimpleData name="Pequenos">8</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-12-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5069027777778,-27.6225138888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">96</SimpleData>
+		<SimpleData name="Pequenos">20</SimpleData>
+		<SimpleData name="Médios">10</SimpleData>
+		<SimpleData name="Grandes">20</SimpleData>
+		<SimpleData name="Cones">15</SimpleData>
+		<SimpleData name="Data">2023-12-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5065888888889,-27.6213111111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">97</SimpleData>
+		<SimpleData name="Pequenos">10</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">20</SimpleData>
+		<SimpleData name="Cones">13</SimpleData>
+		<SimpleData name="Data">2023-12-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5062444444444,-27.6205638888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">98</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-12-08</SimpleData>
+		<SimpleData name="anotador">Lucas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5065083333333,-27.6202305555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">205</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167022222222,-27.6166730555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">206</SimpleData>
+		<SimpleData name="Pequenos">14</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001819444444,-27.6167363888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">207</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001786111111,-27.6167355555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">208</SimpleData>
+		<SimpleData name="Pequenos">19</SimpleData>
+		<SimpleData name="Médios">8</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001747222222,-27.6167322222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">209</SimpleData>
+		<SimpleData name="Pequenos">9</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001738888889,-27.6167297222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">210</SimpleData>
+		<SimpleData name="Pequenos">6</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001719444444,-27.6167305555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">211</SimpleData>
+		<SimpleData name="Pequenos">17</SimpleData>
+		<SimpleData name="Médios">8</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001672222222,-27.6167305555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">212</SimpleData>
+		<SimpleData name="Pequenos">7</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001630555556,-27.6167263888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">213</SimpleData>
+		<SimpleData name="Pequenos">45</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001591666667,-27.6167272222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">214</SimpleData>
+		<SimpleData name="Pequenos">28</SimpleData>
+		<SimpleData name="Médios">10</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001541666667,-27.6167261111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">215</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001527777778,-27.6167227777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">216</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001547222222,-27.6167177777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">217</SimpleData>
+		<SimpleData name="Pequenos">53</SimpleData>
+		<SimpleData name="Médios">25</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001597222222,-27.6167188888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">218</SimpleData>
+		<SimpleData name="Pequenos">23</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001602777778,-27.6167411111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">219</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001566666667,-27.6167316666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">220</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001663888889,-27.6167527777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">221</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001736111111,-27.61676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">222</SimpleData>
+		<SimpleData name="Pequenos">10</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001725,-27.6167619444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">223</SimpleData>
+		<SimpleData name="Pequenos">16</SimpleData>
+		<SimpleData name="Médios">6</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001727777778,-27.6167666666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">224</SimpleData>
+		<SimpleData name="Pequenos">19</SimpleData>
+		<SimpleData name="Médios">23</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001711111111,-27.6167686111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">225</SimpleData>
+		<SimpleData name="Pequenos">5</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001702777778,-27.6167672222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">226</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001788888889,-27.6167594444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">227</SimpleData>
+		<SimpleData name="Pequenos">12</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001819444444,-27.6167627777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">228</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001833333333,-27.6167655555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">229</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001758333333,-27.6167763888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">230</SimpleData>
+		<SimpleData name="Pequenos">7</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001769444445,-27.6168061111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">231</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.50018,-27.6168097222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">232</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001830555556,-27.6168094444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">233</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001863888889,-27.6168086111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">234</SimpleData>
+		<SimpleData name="Pequenos">5</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001863888889,-27.6168047222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">235</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001911111111,-27.6167980555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">236</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001913888889,-27.6167897222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">237</SimpleData>
+		<SimpleData name="Pequenos">5</SimpleData>
+		<SimpleData name="Médios">9</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001897222222,-27.6167877777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">238</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001927777778,-27.6167880555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">239</SimpleData>
+		<SimpleData name="Pequenos">26</SimpleData>
+		<SimpleData name="Médios">26</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001891666667,-27.6167847222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">240</SimpleData>
+		<SimpleData name="Pequenos">11</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001919444444,-27.6167763888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">241</SimpleData>
+		<SimpleData name="Pequenos">42</SimpleData>
+		<SimpleData name="Médios">51</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001891666667,-27.6167769444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">242</SimpleData>
+		<SimpleData name="Pequenos">8</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001875,-27.6167805555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">243</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001852777778,-27.6167833333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">244</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001783333333,-27.6167866666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">245</SimpleData>
+		<SimpleData name="Pequenos">5</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001769444445,-27.6167911111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">246</SimpleData>
+		<SimpleData name="Pequenos">6</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001763888889,-27.6167980555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">247</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002038888889,-27.6168111111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">248</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002541666667,-27.6167555555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">249</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.50026,-27.6167541666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">250</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002547222222,-27.6167530555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">251</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5166716666667,-27.6166861111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">252</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002763888889,-27.6166844444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">256</SimpleData>
+		<SimpleData name="Pequenos">16</SimpleData>
+		<SimpleData name="Médios">12</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002580555556,-27.6166958333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">257</SimpleData>
+		<SimpleData name="Pequenos">5</SimpleData>
+		<SimpleData name="Médios">7</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002608333333,-27.6166994444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">258</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002569444444,-27.6166986111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">259</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-10-25</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002588888889,-27.6167016666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">260</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5168127777778,-27.6235558333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">261</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002327777778,-27.6168016666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">262</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002305555556,-27.6168002777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">263</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002411111111,-27.6167891666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">264</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002402777778,-27.6167252777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">265</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002313888889,-27.6167183333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">266</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002294444444,-27.6167138888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">267</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002269444444,-27.6167125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">268</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002263888889,-27.6167147222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">269</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002269444444,-27.6167161111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">270</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002272222222,-27.6167161111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">271</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002233333333,-27.6167125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">272</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002222222222,-27.6167144444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">273</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002191666667,-27.6167144444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">274</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002166666667,-27.6167152777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">275</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.500215,-27.6167161111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">276</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002138888889,-27.6167175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">277</SimpleData>
+		<SimpleData name="Pequenos">10</SimpleData>
+		<SimpleData name="Médios">7</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002155555556,-27.6167194444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">278</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002144444444,-27.6167286111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">279</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002144444444,-27.6167286111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">280</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002136111111,-27.6167230555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">281</SimpleData>
+		<SimpleData name="Pequenos">15</SimpleData>
+		<SimpleData name="Médios">7</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002127777778,-27.6167255555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">282</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002136111111,-27.6167294444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">283</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002144444444,-27.6167322222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">284</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.500215,-27.6167344444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">285</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002172222222,-27.6167341666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">286</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002188888889,-27.6167358333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">287</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002194444445,-27.6167369444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">288</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002211111111,-27.6167372222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">289</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5166883333333,-27.6166905555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">290</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-07</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5166883333333,-27.6166905555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">291</SimpleData>
+		<SimpleData name="Pequenos">5</SimpleData>
+		<SimpleData name="Médios">8</SimpleData>
+		<SimpleData name="Grandes">13</SimpleData>
+		<SimpleData name="Cones">13</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167047222222,-27.6166944444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">292</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">8</SimpleData>
+		<SimpleData name="Grandes">8</SimpleData>
+		<SimpleData name="Cones">8</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167063888889,-27.6166961111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">293</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167047222222,-27.6166972222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">294</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">9</SimpleData>
+		<SimpleData name="Cones">8</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167036111111,-27.6166955555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">295</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167008333333,-27.6166955555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">296</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5166994444444,-27.6166955555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">297</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">6</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5166975,-27.6166952777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">298</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">7</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5166994444444,-27.6166983333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">299</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">6</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167013888889,-27.6167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">300</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167058333333,-27.6167002777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">301</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">12</SimpleData>
+		<SimpleData name="Cones">8</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167027777778,-27.6167025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">302</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">16</SimpleData>
+		<SimpleData name="Cones">12</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167027777778,-27.6167027777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">303</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167022222222,-27.6166880555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">304</SimpleData>
+		<SimpleData name="Pequenos">55</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167016666667,-27.6167033333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">305</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167013888889,-27.6167044444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">306</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167011111111,-27.6167055555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">307</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5166980555556,-27.6167122222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">308</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5166905555556,-27.6167088888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">309</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167133333333,-27.6166927777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">310</SimpleData>
+		<SimpleData name="Pequenos">6</SimpleData>
+		<SimpleData name="Médios">8</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167247222222,-27.6166691666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">311</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167269444444,-27.6166669444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">312</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">4</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167283333333,-27.6202758333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">313</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167252777778,-27.6222733333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">314</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167286111111,-27.6202738888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">315</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167283333333,-27.6166730555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">316</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167372222222,-27.6166669444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">317</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167394444445,-27.6202744444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">318</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167369444444,-27.6202761111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">319</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167291666667,-27.6166736111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">320</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167297222222,-27.6166766666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">321</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167327777778,-27.6166761111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">322</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">6</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167413888889,-27.6166844444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">323</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">4</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167447222222,-27.6166858333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">324</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">8</SimpleData>
+		<SimpleData name="Cones">8</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167447222222,-27.6166866666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">325</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">6</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-11-09</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167425,-27.6166863888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">326</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167380555556,-27.6166725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">327</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">8</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167405555556,-27.6166880555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">328</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">3</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167441666667,-27.6166897222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">329</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">25</SimpleData>
+		<SimpleData name="Cones">20</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167463888889,-27.6166891666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">330</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">3</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167419444444,-27.6166916666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">331</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">8</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167422222222,-27.6166897222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">332</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">4</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167422222222,-27.6166916666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">333</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">14</SimpleData>
+		<SimpleData name="Cones">7</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167436111111,-27.6166908333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">334</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">9</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167425,-27.6166916666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">335</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">13</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167438888889,-27.6166925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">336</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167422222222,-27.6166925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">337</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-22</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167416666667,-27.6166938888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">338</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">32</SimpleData>
+		<SimpleData name="Cones">15</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167380555556,-27.6166838888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">339</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">9</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167386111111,-27.6166894444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">340</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167394444445,-27.6166905555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">341</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167430555556,-27.6166919444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">342</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167325,-27.6166894444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">343</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">7</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167327777778,-27.6166869444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">344</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">7</SimpleData>
+		<SimpleData name="Grandes">30</SimpleData>
+		<SimpleData name="Cones">18</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167327777778,-27.6166869444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">345</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">11</SimpleData>
+		<SimpleData name="Cones">11</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167394444445,-27.6166913888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">346</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">15</SimpleData>
+		<SimpleData name="Cones">13</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167394444445,-27.616695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">347</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">8</SimpleData>
+		<SimpleData name="Grandes">32</SimpleData>
+		<SimpleData name="Cones">19</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167386111111,-27.6166930555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">348</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">9</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167355555556,-27.6166963888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">349</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">11</SimpleData>
+		<SimpleData name="Cones">11</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167683333333,-27.6235175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">350</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">15</SimpleData>
+		<SimpleData name="Cones">10</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167333333333,-27.6166988888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">351</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">19</SimpleData>
+		<SimpleData name="Cones">17</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167313888889,-27.6166961111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">352</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">6</SimpleData>
+		<SimpleData name="Grandes">13</SimpleData>
+		<SimpleData name="Cones">7</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167319444444,-27.6166955555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">353</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">4</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-24</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167294444444,-27.6166927777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">354</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001875,-27.6167436111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">355</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001972222222,-27.6167419444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">356</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001719444444,-27.6167569444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">357</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.500165,-27.6167563888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">358</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001611111111,-27.6167558333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">359</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001616666667,-27.616755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">360</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001644444444,-27.6167588888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">361</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001686111111,-27.6167641666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">362</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001566666667,-27.6167913888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">363</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001458333333,-27.6167802777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">364</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.500155,-27.6167744444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">365</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001555555556,-27.6167741666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">366</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">3</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001330555556,-27.6167716666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">367</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001341666667,-27.6167697222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">368</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">8</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001363888889,-27.6167661111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">369</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001327777778,-27.6167616666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">370</SimpleData>
+		<SimpleData name="Pequenos">18</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">3</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001302777778,-27.6167583333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">371</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">7</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001316666667,-27.6167597222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">372</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">6</SimpleData>
+		<SimpleData name="Cones">6</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.50013,-27.6167558333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">373</SimpleData>
+		<SimpleData name="Pequenos">4</SimpleData>
+		<SimpleData name="Médios">5</SimpleData>
+		<SimpleData name="Grandes">12</SimpleData>
+		<SimpleData name="Cones">10</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001291666667,-27.6167544444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">374</SimpleData>
+		<SimpleData name="Pequenos">3</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">10</SimpleData>
+		<SimpleData name="Cones">8</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001311111111,-27.6167558333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">375</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">9</SimpleData>
+		<SimpleData name="Grandes">17</SimpleData>
+		<SimpleData name="Cones">16</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001291666667,-27.6167572222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">376</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">15</SimpleData>
+		<SimpleData name="Cones">10</SimpleData>
+		<SimpleData name="Data">2023-11-30</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001311111111,-27.6167569444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">377</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167363888889,-27.6166719444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">378</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167411111111,-27.6202666666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">379</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167458333333,-27.6202658333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">380</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">6</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167575,-27.6202697222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">381</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167561111111,-27.6202658333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">382</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167491666667,-27.6202688888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">383</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">3</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167475,-27.6202705555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">384</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">1</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167469444444,-27.6202611111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">385</SimpleData>
+		<SimpleData name="Pequenos">2</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">5</SimpleData>
+		<SimpleData name="Cones">5</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167497222222,-27.6202586111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">386</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">7</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167530555556,-27.6202605555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">387</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">4</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167572222222,-27.6202583333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">388</SimpleData>
+		<SimpleData name="Pequenos">7</SimpleData>
+		<SimpleData name="Médios">4</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167552777778,-27.6202569444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">389</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.51675,-27.6202541666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">390</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5167444444444,-27.6202577777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">391</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002430555556,-27.6167141666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">392</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-06</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5002427777778,-27.6167102777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">393</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">1</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">3</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001330555556,-27.6167561111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">394</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">1</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001236111111,-27.6167466666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">395</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001211111111,-27.6167419444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">396</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001141666667,-27.6167533333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">397</SimpleData>
+		<SimpleData name="Pequenos">8</SimpleData>
+		<SimpleData name="Médios">9</SimpleData>
+		<SimpleData name="Grandes">12</SimpleData>
+		<SimpleData name="Cones">15</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001183333333,-27.6167525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">398</SimpleData>
+		<SimpleData name="Pequenos">1</SimpleData>
+		<SimpleData name="Médios">2</SimpleData>
+		<SimpleData name="Grandes">3</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001177777778,-27.6167536111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">417</SimpleData>
+		<SimpleData name="Pequenos">7</SimpleData>
+		<SimpleData name="Médios">10</SimpleData>
+		<SimpleData name="Grandes">12</SimpleData>
+		<SimpleData name="Cones">16</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001166666667,-27.61676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">418</SimpleData>
+		<SimpleData name="Pequenos">28</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">0</SimpleData>
+		<SimpleData name="Cones">0</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001063888889,-27.6167552777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">419</SimpleData>
+		<SimpleData name="Pequenos">15</SimpleData>
+		<SimpleData name="Médios">6</SimpleData>
+		<SimpleData name="Grandes">9</SimpleData>
+		<SimpleData name="Cones">14</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001061111111,-27.6167469444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">420</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">2</SimpleData>
+		<SimpleData name="Cones">2</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001127777778,-27.6167513888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">422</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">3</SimpleData>
+		<SimpleData name="Grandes">8</SimpleData>
+		<SimpleData name="Cones">9</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001175,-27.6167325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#df">
+		<SimpleData name="Pontos">423</SimpleData>
+		<SimpleData name="Pequenos">0</SimpleData>
+		<SimpleData name="Médios">0</SimpleData>
+		<SimpleData name="Grandes">4</SimpleData>
+		<SimpleData name="Cones">4</SimpleData>
+		<SimpleData name="Data">2023-11-08</SimpleData>
+		<SimpleData name="anotador">Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5001166666667,-27.6167286111111</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

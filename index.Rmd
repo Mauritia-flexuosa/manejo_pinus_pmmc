@@ -1,0 +1,19 @@
+```{r echo=FALSE, include=FALSE}
+source("script_2.R")
+```
+
+# Manejo de Pinus realizado no Parque Natural Municipal do Maciço da Costeira
+
+## Trabalho desenvolvido por **Bushman Ambiental**.
+
+```{r echo=FALSE, include=TRUE}
+pinus
+```
+
+```{r echo=FALSE, include=TRUE, warning=FALSE}
+disco
+```
+
+### <a href = "mailto:bushman.ambiental@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.instagram.com/bushman_ambiental/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
